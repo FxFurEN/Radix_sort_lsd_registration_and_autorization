@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="bel_button" xml:space="preserve">
+    <value>Кнопка: унесці лік у масіў-уносіць лік якое было ўведзена ў поле для ўводу
+
+Кнопка: Стварыць новы масіў-стварае новы масіў і выдаляе папярэдні масіў
+
+Кнопка: рандомные запоўніць масіў-запаўняе масіў выпадковымі лікамі ў дыяпазоне ад 1 да 2500
+
+Кнопка: раздрукаваць масіў-раздрукоўвае масіў у акно "масіў да сартавання"
+
+Кнопка: выканаць поразрядную Сартаванне LSD-выконваецца Сартаванне і раздрукоўвае яго ў акно "масіў пасля сартавання" Кнопка: Захаваць масіў у файл-захоўвае масіў у выбраную тэчку. Кнопка: чытанне масіў з файла-раздрукоўвае масіў з файла.</value>
+  </data>
+  <data name="eng_button" xml:space="preserve">
+    <value>Button: Add a number to the array - Adds the number that was entered in the input field
+
+Button: Create New Array - Creates a new array and deletes the previous array
+
+Button: Randomly fill the array - Fills the array with random numbers in the range from 1 to 2500
+
+Button: Print Array - Prints the array to the "Array before Sorting" window
+
+Button: Perform bitwise sorting LSD - Sorting is performed and prints it to the "Array after sorting" window Button: Save array to file - Saves array to the selected folder. Button: Reading an array from a file - Prints an array from a file.</value>
+  </data>
+  <data name="radix_sort_lsd_bel" xml:space="preserve">
+    <value>Кожны ключ спачатку вобразна апускаецца ў адзін узровень вёдраў, які адпавядае значэнню самай правай лічбы. Кожнае вядро захоўвае першапачатковы парадак ключоў па меры апускання ключоў. Паміж колькасцю вёдраў і колькасцю значэнняў, якія могуць быць прадстаўлены лічбай, існуе адна-адзнака. Затым працэс паўтараецца з наступнай суседняй лічбай, пакуль не застанецца больш лічбаў для апрацоўкі. Іншымі словамі: 
+
+     1.Вазьміце найменшую лічбу (або групу бітаў, абодва з'яўляюцца прыкладамі радысаў) кожнага ключа. 
+     2.Згрупуйце ключы на ​​аснове гэтай лічбы, але ў іншым выпадку захавайце першапачатковы парадак ключоў. (Гэта тое, што робіць сартаванне LSD radix стабільным). 
+     3.Паўтарыце працэс групоўкі з кожнай больш значнай лічбай. 
+
+ Сартаванне на этапе 2 звычайна выконваецца з дапамогай сартавання па вядры або сартавання падлікам, якія ў гэтым выпадку эфектыўныя, паколькі звычайна ёсць толькі невялікая колькасць лічбаў.</value>
+  </data>
+  <data name="radix_sort_lsd_eng" xml:space="preserve">
+    <value>Each key is first figuratively dropped into one level of buckets corresponding to the value of the rightmost digit. Each bucket preserves the original order of the keys as the keys are dropped into. There is a one-to-one correspondence between the number of buckets and the number of values that can be represented by a digit. Then, the process repeats with the next neighboring digit until there are no more digits to process. In other words:
+
+    1.Take the least significant digit (or group of bits, both being examples of radices) of each key.
+    2.Group the keys based on that digit, but otherwise keep the original order of keys. (This is what makes the LSD radix sort a stable sort).
+    3.Repeat the grouping process with each more significant digit.
+
+The sort in step 2 is usually done using bucket sort or counting sort, which are efficient in this case since there are usually only a small number of digits.</value>
+  </data>
+  <data name="radix_sort_lsd_rus" xml:space="preserve">
+    <value>Каждый ключ сначала образно помещается в один уровень сегментов, соответствующий значению самой правой цифры. Каждое "ведро" сохраняет исходный порядок ключей по мере их добавления. Существует однозначное соответствие между количеством сегментов и количеством значений, которые могут быть представлены цифрой. Затем процесс повторяется со следующей соседней цифрой до тех пор, пока цифры для обработки не закончатся. Другими словами: 
+
+     1.Возьмите младшую значащую цифру (или группу битов, оба являются примерами корней) каждого ключа. 
+     2.Сгруппируйте ключи на основе этой цифры, но в остальном сохраните исходный порядок ключей. (Это то, что делает сортировку по основанию LSD стабильной сортировкой). 
+     3.Повторите процесс группировки с каждой более значимой цифрой. 
+
+ Сортировка на шаге 2 обычно выполняется с использованием групповой сортировки или сортировки подсчетом, которые в этом случае эффективны, поскольку обычно имеется лишь небольшое количество цифр..</value>
+  </data>
+  <data name="rus_button" xml:space="preserve">
+    <value>Кнопка:  Внести число в массив - Вносит число которое было введено в поле для ввода
+
+Кнопка:  Создать новый массив - Создает новый массив и удаляет предыдущий масив 
+
+Кнопка:  Рандомно заполнить массив -  Заполняет массив случайными числами в даипозоне от 1 до 2500
+
+Кнопка:  Распечатать массив - Распечатывает массив в окно "Массив до сортировки"
+
+Кнопка:  Выполнить поразрядную сортировку LSD - Выполняется сортировка  и распечатывает его в окно "Массив после сортировки"                                                                                                                                                                        Кнопка:  Сохранить массив в файл - Сохраняет массив в выбраную папку.                                                                                                                                                                                       Кнопка: Чтение массив из файла - Распечатывает массив из файла.</value>
+  </data>
+</root>

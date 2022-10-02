@@ -1,0 +1,38 @@
+C:\Users\Ded insaid\source\repos\Kursovaya\Debug\Kursovaya.vcxproj.AssemblyReference.cache
+C:\Users\Ded insaid\source\repos\Kursovaya\Debug\Kursovaya.MyForm.resources
+C:\Users\Ded insaid\source\repos\Kursovaya\Debug\Kursovaya.vcxproj.GenerateResource.cache
+C:\Users\Ded insaid\source\repos\Kursovaya\Debug\Kursovaya.exe
+C:\Users\Ded insaid\source\repos\Kursovaya\Debug\Kursovaya.MyForm1.resources
+C:\Users\Ded insaid\vs project 2019\Kursovaya\Debug\Kursovaya.vcxproj.AssemblyReference.cache
+C:\Users\Ded insaid\vs project 2019\Kursovaya\Debug\Kursovaya.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Ded insaid\vs project 2019\Kursovaya\Debug\Kursovaya.MyForm.resources
+C:\Users\Ded insaid\vs project 2019\Kursovaya\Debug\Kursovaya.MyForm1.resources
+C:\Users\Ded insaid\vs project 2019\Kursovaya\Debug\Kursovaya.vcxproj.GenerateResource.cache
+C:\Users\Ded insaid\vs project 2019\Kursovaya\Debug\Kursovaya.exe
+C:\Users\Ded insaid\vs project 2019\Kursovaya\Debug\Kursovaya.mainwindow.resources
+E:\Практика 2 курс\Kursovaya\Debug\Kursovaya.vcxproj.AssemblyReference.cache
+E:\Практика 2 курс\Kursovaya\Debug\Kursovaya.MyForm.resources
+E:\Практика 2 курс\Kursovaya\Debug\Kursovaya.MyForm1.resources
+E:\Практика 2 курс\Kursovaya\Debug\Kursovaya.vcxproj.GenerateResource.cache
+E:\Практика 2 курс\Kursovaya\Debug\Kursovaya.exe
+E:\Практика 2 курс\Kursovaya\Debug\Kursovaya.WinLSD.resources
+E:\Kursovaya(123)\Debug\Kursovaya.vcxproj.AssemblyReference.cache
+E:\Kursovaya(123)\Debug\Kursovaya.MyForm.resources
+E:\Kursovaya(123)\Debug\Kursovaya.MyForm1.resources
+E:\Kursovaya(123)\Debug\Kursovaya.WinLSD.resources
+E:\Kursovaya(123)\Debug\Kursovaya.vcxproj.GenerateResource.cache
+E:\Kursovaya(123)\Debug\Kursovaya.exe
+C:\Users\Student403\Desktop\Kursovaya(123)\Debug\Kursovaya.vcxprojAssemblyReference.cache
+C:\Users\Student403\Desktop\Kursovaya(123)\Debug\Kursovaya.MyForm.resources
+C:\Users\Student403\Desktop\Kursovaya(123)\Debug\Kursovaya.MyForm1.resources
+C:\Users\Student403\Desktop\Kursovaya(123)\Debug\Kursovaya.WinLSD.resources
+C:\Users\Student403\Desktop\Kursovaya(123)\Debug\Kursovaya.vcxproj.GenerateResource.cache
+C:\Users\Student403\Desktop\Kursovaya(123)\Debug\Kursovaya.exe
+C:\Users\Student403\Desktop\Kursovaya(123)\Debug\Kursovaya.pdb
+E:\kursova\Debug\Kursovaya.vcxproj.AssemblyReference.cache
+E:\kursova\Debug\Kursovaya.HelpWindow.resources
+E:\kursova\Debug\Kursovaya.MyForm.resources
+E:\kursova\Debug\Kursovaya.MyForm1.resources
+E:\kursova\Debug\Kursovaya.WinLSD.resources
+E:\kursova\Debug\Kursovaya.vcxproj.GenerateResource.cache
+E:\kursova\Debug\Kursovaya.exe

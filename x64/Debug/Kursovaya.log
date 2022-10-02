@@ -1,0 +1,20 @@
+﻿  HelpWindow.cpp
+  MyForm.cpp
+E:\kursova\WinLSD.h(115,17): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+E:\kursova\WinLSD.h(121,17): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+E:\kursova\WinLSD.h(131,17): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+E:\kursova\WinLSD.h(643,3): warning C4286: System::OverflowException ^: перехвачено базовым классом ("System::Exception ^") в строке 636
+  MyForm1.cpp
+E:\kursova\WinLSD.h(115,17): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+E:\kursova\WinLSD.h(121,17): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+E:\kursova\WinLSD.h(131,17): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+E:\kursova\WinLSD.h(643,3): warning C4286: System::OverflowException ^: перехвачено базовым классом ("System::Exception ^") в строке 636
+  WinLSD.cpp
+E:\kursova\WinLSD.h(115,17): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+E:\kursova\WinLSD.h(121,17): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+E:\kursova\WinLSD.h(131,17): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+E:\kursova\WinLSD.h(643,3): warning C4286: System::OverflowException ^: перехвачено базовым классом ("System::Exception ^") в строке 636
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  HelpWindow.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Kursovaya.vcxproj -> E:\kursova\x64\Debug\Kursovaya.exe
